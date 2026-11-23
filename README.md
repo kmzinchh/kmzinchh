@@ -44,13 +44,13 @@
   <br><br>
 
   <!-- Social Media Badges -->
-  <a href="https://www.linkedin.com/in/muhammad-faizall">
+  <a href="https://www.linkedin.com/in/muhammad-faizall-3176703b9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/muhammad_faizll">
+  <a href="https://www.instagram.com/muhammadfaizll?knvt=MXExbmQ5eWZ0MHVnag==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@kmzinchh">
+  <a href="https://www.tiktok.com/@kmzinchh" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 
@@ -76,4 +76,4 @@
 </div>
 
 ---
-?* *so that we can learn to pick ourself up*
+*so that we can learn to pick ourself up*
