@@ -34,9 +34,47 @@
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad-Faizall)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad-faizll)
+<div align="center">
+
+  <!-- Animasi Menyapa -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%90%B7;I'm+Muhammad+Faizall;Informatics+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Social Media Badges -->
+  <a href="https://www.linkedin.com/in/muhammad-faizall">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/muhammad_faizll">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@kmzinchh">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+
+</div>
 
 ---
-*“First, solve the problem. Then, write the code.” – John Johnson*
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
+
+  <br><br>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+---
+*Why do we fall sir?* *so that we can learn to pic ourselves up*
