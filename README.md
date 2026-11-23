@@ -36,9 +36,9 @@
 
 <div align="center">
 
-  <!-- Animasi Menyapa (Leon S. Kennedy Style) -->
+  <!-- Animasi Menyapa (Emoji Melambai 👋) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vcenter=true&width=550&lines=Hi+there!+%F0%9F%A7%A5%F0%9F%94%AB;I'm+Muhammad+Faizall;Informatics+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+profile!+%E2%98%A3%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vcenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B;I'm+Muhammad+Faizall;Informatics+Engineering+Student+%F0%9F%92%BB;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -76,4 +76,4 @@
 </div>
 
 ---
-*Why do we fall sir?* *so that we can learn to pic ourselves up*
+?* *so that we can learn to pick ourself up*
